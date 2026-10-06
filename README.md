@@ -6,6 +6,7 @@ Personal cybersecurity portfolio showcasing experience, education, certification
 - Identity & Access Management / Microsoft Entra ID
 - SOC & SIEM
 - Log Analysis & Threat Detection
+- TLS, PKI & Certificate Management
 - Cybersecurity Risk Assessment & GRC
 - Python, Linux and security automation
 
